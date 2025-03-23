@@ -25,7 +25,7 @@ Reload the game to continue from where you left off.
 Win by successfully touching all grass tiles!
 
 ## Code Availability
-Due to the nature of this project being similar to previous classwork, the full source code is not publicly available. However, the game features and mechanics can be explored through the README.md and demo recording provided.
+Due to the nature of this project being similar to previous classwork, the full source code is not publicly available. However, the game features and mechanics can be explored through the README.md and demo recording provided. You may need to download the demo video to watch it.
 
 ## Acknowledgments
 Inspired by the "touch grass" joke.
