@@ -12,6 +12,10 @@ Save and Load Functionality: You can quit and reload the game, and the world wil
 
 Winning Condition: The game ends when your avatar successfully touches all grass tiles in the world.
 
+## Video Demonstration
+
+For a video demonstration, please watch world_demo.mp4. In the demo, you will see the features detailed above.
+
 ## How to Play
 
 Choose a seed to generate a new world or load a previously saved game.
