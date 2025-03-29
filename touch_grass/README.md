@@ -33,4 +33,5 @@ Inspired by the "touch grass" joke.
 Made for fun and learning purposes.
 
 ## License
-This project is licensed under the MIT License.
+All rights reserved. The source code is not publicly available.
+
