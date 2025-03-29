@@ -44,3 +44,6 @@ Testing F1 Score: 0.7250
 There is a trade-off between precision and recall. Adjusting the decision threshold helped improve recall at the cost of a small decrease in precision.
 
 The model was able to achieve a reasonable balance between these metrics, though recall could still be improved further by tuning the threshold or exploring other algorithms. For the regular user, though, this would not be particularly important.
+
+## License
+This project is licensed under the MIT License
