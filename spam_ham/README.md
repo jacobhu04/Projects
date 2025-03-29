@@ -46,4 +46,4 @@ There is a trade-off between precision and recall. Adjusting the decision thresh
 The model was able to achieve a reasonable balance between these metrics, though recall could still be improved further by tuning the threshold or exploring other algorithms. For the regular user, though, this would not be particularly important.
 
 ## License
-This project is licensed under the MIT License
+This project is licensed under the MIT License.
