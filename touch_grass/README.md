@@ -31,3 +31,6 @@ Due to the nature of this project being similar to previous classwork, the full 
 Inspired by the "touch grass" joke.
 
 Made for fun and learning purposes.
+
+## License
+This project is licensed under the MIT License.
